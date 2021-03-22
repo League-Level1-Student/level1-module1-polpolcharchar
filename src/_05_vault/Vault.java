@@ -10,8 +10,7 @@ public class Vault {
 	public boolean tryCode(int guess) {
 		if (guess == secretCode) {
 			return true;
-		}
-		else {
+		} else {
 			return false;
 		}
 

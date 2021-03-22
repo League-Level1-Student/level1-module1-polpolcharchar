@@ -22,6 +22,8 @@ public class Cat {
 	private String name;
 	private int lives = 9;
 
+	//member variable - fields - instance variable 
+	
 	Cat(String name) {
 		this.name = name;
 	}
